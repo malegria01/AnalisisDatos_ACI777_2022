@@ -33,4 +33,5 @@ En esta unidad veremos una introducción a todo lo que es el análisis de datos 
    1. [Clase 1](Clases/Clase1.pdf) en formato PDF
    2. Material suplementario: Tutorial de instalación de [Anaconda](https://github.com/dtravisany/ACI777/blob/main/00_instalar_anaconda/README.md)
    3. Material suplementario: Introducción a [Jupyter Notebooks](https://github.com/dtravisany/ACI777/blob/main/01_Jupyter_notebooks/README.md)
-   4. Práctico en Python en Jupyter [Notebooks](notebooks/Clase1.ipynb), es necesario descargar estos [datos](data/cars.csv) en la misma carpeta
+   4. 
+   5. Pack Studiantes: https://education.github.com/pack  (registrar con su cuenta .edu)
