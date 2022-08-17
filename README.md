@@ -6,7 +6,7 @@
 # Curso de Análisis de datos ACI777 Facultad Ingeniería y Negocios UDLA.
 
 ## Profesora: Melissa Alegría. 
-(Si tienes alguna duda, escribir a malegriaa@udla.cl CC al ayudante del curso fe.sepulveda.c@gmail.com)
+(Si tienes alguna duda, escribir a malegriaa@udla.cl)
  
 ##### Aquí encontrarás parte del material del curso como clases en pdf, anuncios, links a material suplementario. Recordar que la plataforma blackboard es el canal oficial de información.
 
@@ -22,8 +22,7 @@ y poder realizar el procesamiento para la construcción de modelos predictivos. 
 
 # AVISOS
 
-### Entrega Ejercicio Evaluado 2 : 10 de Octubre de 2021 hasta las 23:59 hrs.
-### Martes 12 de Septiembre 2021 : Cátedra 1 : Entra todo lo pasado hasta el día 05 de Octubre 2021.
+Modalidad presencial: sala : A316 - Edif. A
 
 
 ## Unidad I - Introducción
