@@ -34,4 +34,4 @@ En esta unidad veremos una introducción a todo lo que es el análisis de datos 
    2. Material suplementario: Tutorial de instalación de [Anaconda](https://github.com/dtravisany/ACI777/blob/main/00_instalar_anaconda/README.md)
    3. Material suplementario: Introducción a [Jupyter Notebooks](https://github.com/dtravisany/ACI777/blob/main/01_Jupyter_notebooks/README.md)
    4. [¿Qué es GitHub?](https://github.com/dtravisany/ACI777/blob/main/03_Practico_github/README.md)
-   5. [Pack Studiantes](https://education.github.com/pack)  Registrar con su cuenta .edu
+   5. [Pack Estudiantes](https://education.github.com/pack)  Registrar con su cuenta .edu
