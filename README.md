@@ -30,7 +30,7 @@ En esta unidad veremos una introducción a todo lo que es el análisis de datos 
 
  
 1. Introducción al análisis de datos, toolkit y ejemplos prácticos.
-   1. [Clase 1](Clases/Clase1.pdf) en formato PDF
+   1. [Clase 1](https://github.com/malegria01/AnalisisDatos_ACI777_2022/blob/main/PDF/Clase1.pdf) en formato PDF
    2. Material suplementario: Tutorial de instalación de [Anaconda](https://github.com/dtravisany/ACI777/blob/main/00_instalar_anaconda/README.md)
    3. Material suplementario: Introducción a [Jupyter Notebooks](https://github.com/dtravisany/ACI777/blob/main/01_Jupyter_notebooks/README.md)
    4. [¿Qué es GitHub?](https://github.com/dtravisany/ACI777/blob/main/03_Practico_github/README.md)
