@@ -39,5 +39,6 @@ En esta unidad veremos una introducción a todo lo que es el análisis de datos 
 
 2. Introducción a Python
    1. [Clase2]
-   2. [Introducción a Python I](https://colab.research.google.com/github/malegria01/AnalisisDatos_ACI777_2022/blob/main/Clase2_IntroduccionPython1.ipynb)
+   2. Introducción a Python I [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malegria01/AnalisisDatos_ACI777_2022/blob/main/Clase2_IntroduccionPython1.ipynb)
 
+| Clase 3 (02 Abril) |  Introducción a Clases y Objetos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malegria01/ACI222/blob/main/jupyter-notebook/Clase3-IntroduccionClasesObjetos.ipynb) 
