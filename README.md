@@ -35,3 +35,9 @@ En esta unidad veremos una introducción a todo lo que es el análisis de datos 
    3. Material suplementario: Introducción a [Jupyter Notebooks](https://github.com/dtravisany/ACI777/blob/main/01_Jupyter_notebooks/README.md)
    4. [¿Qué es GitHub?](https://github.com/dtravisany/ACI777/blob/main/03_Practico_github/README.md)
    5. [Pack Estudiantes](https://education.github.com/pack)  Registrar con su cuenta .edu
+   
+
+2. Introducción a Python
+   1. [Clase2]
+   2. [Introducción a Python I](https://colab.research.google.com/github/malegria01/AnalisisDatos_ACI777_2022/blob/main/Clase2_IntroduccionPython1.ipynb)
+
