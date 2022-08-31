@@ -32,6 +32,7 @@ En esta unidad veremos una introducción a todo lo que es el análisis de datos 
 
  
 1. Introducción al análisis de datos, toolkit y ejemplos prácticos.
+
    1. [Clase 1](https://github.com/malegria01/AnalisisDatos_ACI777_2022/blob/main/PDF/Clase1.pdf) en formato PDF
    2. Material suplementario: Tutorial de instalación de [Anaconda](https://github.com/dtravisany/ACI777/blob/main/00_instalar_anaconda/README.md)
    3. Material suplementario: Introducción a [Jupyter Notebooks](https://github.com/dtravisany/ACI777/blob/main/01_Jupyter_notebooks/README.md)
@@ -40,11 +41,12 @@ En esta unidad veremos una introducción a todo lo que es el análisis de datos 
    
 
 2. Introducción a Python
+
    1. [Clase2](https://github.com/malegria01/AnalisisDatos_ACI777_2022/blob/main/PDF/Clase2.pdf) en formato PDF
    
    2. Introducción a Python I [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malegria01/AnalisisDatos_ACI777_2022/blob/main/Clase2_IntroduccionPython1.ipynb)
    
-   3.- Clase3: Introducción a Python II  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malegria01/AnalisisDatos_ACI777_2022/blob/main/Notebooks/Clase3_RepasoPython2_parte1.ipynb)
+   3. Clase3: Introducción a Python II  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malegria01/AnalisisDatos_ACI777_2022/blob/main/Notebooks/Clase3_RepasoPython2_parte1.ipynb)
    
    
    
