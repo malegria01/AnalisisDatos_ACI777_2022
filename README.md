@@ -22,7 +22,9 @@ y poder realizar el procesamiento para la construcción de modelos predictivos. 
 
 # AVISOS
 
-Modalidad presencial: sala : A316 - Edif. A
+Modalidad presencial: sala : A316 - Edif. A 
+
+##   El horario es el mismo a las 15:30 (aun no autorizan el cambio de horario)
 
 
 ## Unidad I - Introducción
