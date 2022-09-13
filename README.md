@@ -2,6 +2,7 @@
  
 
 
+#AVISO!!:  Cambio horario miercoles 14 de Septiembre a las 14:20 hrs
 
 # Curso de Análisis de datos ACI777 Facultad Ingeniería y Negocios UDLA.
 
@@ -24,7 +25,7 @@ y poder realizar el procesamiento para la construcción de modelos predictivos. 
 
 Modalidad presencial: sala : A316 - Edif. A 
 
-##   El horario es el mismo a las 15:30 (aun no autorizan el cambio de horario)
+##   El horario ha cambiado a las 14:20 !
 
 ## Cambio de fechas :
 
