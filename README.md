@@ -26,6 +26,10 @@ Modalidad presencial: sala : A316 - Edif. A
 
 ##   El horario es el mismo a las 15:30 (aun no autorizan el cambio de horario)
 
+## Cambio de fechas :
+
+Debido al cambio de la semana de pausa académica, el Ejericio Evaluado 2 se entregara el 14 de Septiembre y la Cátedra será  el 5 de Octubre
+
 
 ## Unidad I - Introducción
 En esta unidad veremos una introducción a todo lo que es el análisis de datos y mostraremos ejemplos de diversos trabajos donde el análisis de datos es relevante. Adicionalmente, instalaremos los toolkits/herramientas necesarias que utilizaremos durante el curso.
