@@ -2,7 +2,7 @@
  
 
 
-#AVISO!!:  Cambio horario miercoles 14 de Septiembre a las 14:20 hrs
+# AVISO!!:  Cambio horario miercoles 14 de Septiembre a las 14:20 hrs
 
 # Curso de Análisis de datos ACI777 Facultad Ingeniería y Negocios UDLA.
 
