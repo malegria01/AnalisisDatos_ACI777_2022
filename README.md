@@ -59,5 +59,5 @@ En esta unidad veremos una introducción a todo lo que es el análisis de datos 
    https://drive.google.com/drive/folders/1JcyMeaG7JS5DYs5DaHyEnXG6ymTIO15N?usp=sharing
    
    
-   
+  Clase4 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13oPwtEzKMo3pHeyqC-WhvuB-dOHEGRy2)
    
