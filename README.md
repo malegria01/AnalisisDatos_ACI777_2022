@@ -72,8 +72,8 @@ En esta unidad comenzamos con el análisis exploratorio de datos, asi como la li
     
       Clase5 parte1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QNptbtDAXEVp4QN56S_KAVFHMy1NtkLq)
       
-     Clase5 [presentación](https://docs.google.com/presentation/d/1x4ntP_SBKWk7xsBALabdwAArwsB1gBaF/edit?usp=sharing&ouid=108809600204994716242&rtpof=true&sd=true)
+      Clase5 [presentación](https://docs.google.com/presentation/d/1x4ntP_SBKWk7xsBALabdwAArwsB1gBaF/edit?usp=sharing&ouid=108809600204994716242&rtpof=true&sd=true)
      
-     Clase5 parte2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12Q0uTC6x8MVYKLF0cp_TzqMR--4wOUDN)
+      Clase5 parte2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12Q0uTC6x8MVYKLF0cp_TzqMR--4wOUDN)
      
-     Ejercicio Evaluado 2
+     [Ejercicio Evaluado 2](https://drive.google.com/drive/folders/16oqEKC5YizO13XUa01Kte-hRSjkVzDze?usp=sharing)
