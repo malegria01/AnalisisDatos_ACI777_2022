@@ -62,4 +62,4 @@ En esta unidad veremos una introducción a todo lo que es el análisis de datos 
 
 3.- Pandas, estadística descriptiva y EDA
 
-  1.- Pandas
+   1. Clase 5: [Acceso al material en drive](https://drive.google.com/drive/folders/1TVpLkU9iru8ZBxFodvL_15AuElYbZDu_?usp=sharing)
