@@ -61,6 +61,19 @@ En esta unidad veremos una introducción a todo lo que es el análisis de datos 
       Clase4 parte2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V3ZdPxIcMQ5y5eEiqmylZuvoqedvAWnp)
       
 
-3. Pandas, estadística descriptiva y EDA
+
+## Unidad II - Modelos Anaílitos Descriptivos
+En esta unidad comenzamos con el análisis exploratorio de datos, asi como la limpieda y el uso de Pandas. Adicionalmente veremos el análisis exploratorio de datos usando la estadística descriptiva.
+
+
+1. Pandas, estadística descriptiva y EDA
 
    1. Clase 5: [Acceso al material en drive](https://drive.google.com/drive/folders/1TVpLkU9iru8ZBxFodvL_15AuElYbZDu_?usp=sharing)
+    
+      Clase5 parte1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QNptbtDAXEVp4QN56S_KAVFHMy1NtkLq)
+      
+     Clase5 [presentación](https://docs.google.com/presentation/d/1x4ntP_SBKWk7xsBALabdwAArwsB1gBaF/edit?usp=sharing&ouid=108809600204994716242&rtpof=true&sd=true)
+     
+     Clase5 parte2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12Q0uTC6x8MVYKLF0cp_TzqMR--4wOUDN)
+     
+     Ejercicio Evaluado 2
