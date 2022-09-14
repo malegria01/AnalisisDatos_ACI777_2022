@@ -59,7 +59,8 @@ En esta unidad veremos una introducción a todo lo que es el análisis de datos 
       Clase4 parte1[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13oPwtEzKMo3pHeyqC-WhvuB-dOHEGRy2)
       
       Clase4 parte2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V3ZdPxIcMQ5y5eEiqmylZuvoqedvAWnp)
+      
 
-3.- Pandas, estadística descriptiva y EDA
+3. Pandas, estadística descriptiva y EDA
 
    1. Clase 5: [Acceso al material en drive](https://drive.google.com/drive/folders/1TVpLkU9iru8ZBxFodvL_15AuElYbZDu_?usp=sharing)
