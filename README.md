@@ -2,7 +2,7 @@
  
 
 
-# AVISO!!:  Miercoles 28 de Septiembrepuede que por motivos de fuerza mayor me atrase en la llegada de la clase.
+# AVISO!!:  Miercoles 28 de Septiembre: Debido a disturbios en el metro, me esta costando llegar, les pido comenzar en el segundo bloque 15:30.
 
 # Curso de Análisis de datos ACI777 Facultad Ingeniería y Negocios UDLA.
 
