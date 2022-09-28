@@ -2,7 +2,7 @@
  
 
 
-# AVISO!!:  Cambio horario miercoles 14 de Septiembre a las 14:20 hrs
+# AVISO!!:  Miercoles 28 de Septiembrepuede que por motivos de fuerza mayor me atrase en la llegada de la clase.
 
 # Curso de Análisis de datos ACI777 Facultad Ingeniería y Negocios UDLA.
 
@@ -77,3 +77,5 @@ En esta unidad comenzamos con el análisis exploratorio de datos, asi como la li
       Clase5 parte2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12Q0uTC6x8MVYKLF0cp_TzqMR--4wOUDN)
      
      [Ejercicio Evaluado 2](https://drive.google.com/drive/folders/16oqEKC5YizO13XUa01Kte-hRSjkVzDze?usp=sharing)
+     
+     [Clase6](https://drive.google.com/drive/folders/1Nekw-3RzI3OVSB_RpS0QRDssWubEnalc?usp=sharing)
