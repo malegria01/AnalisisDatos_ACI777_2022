@@ -21,11 +21,10 @@ En este curso entenderemos el concepto de datos, sus formatos; procesos fundamen
 (curación o Data cleaning), métricas explorativas que nos permitiran conducir el análisis, generar visualizaciones 
 y poder realizar el procesamiento para la construcción de modelos predictivos. Desde un componente práctico y uno teórico.
 
-# AVISOS
 
-Modalidad presencial: sala : A316 - Edif. A 
 
-##   El horario ha cambiado a las 14:20 !
+# Modalidad presencial: sala : A316 - Edif. A 
+
 
 ## Cambio de fechas :
 
