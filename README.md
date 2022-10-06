@@ -80,7 +80,7 @@ En esta unidad comenzamos con el análisis exploratorio de datos, asi como la li
      [Clase6](https://drive.google.com/drive/folders/1Nekw-3RzI3OVSB_RpS0QRDssWubEnalc?usp=sharing)
      
      
-     ## Grabacion 5 de Octubre
+     ## Grabación 5 de Octubre
      
      [link](https://udla.zoom.us/rec/share/7m00l53lZJDXc7u-kxutXPx7kSNerBN3tkbgNbibuRBoeGF04PIKCXWf4nVqcNZj.3Y4eD4yBu2aP1I8c?startTime=1664990194000)
 
