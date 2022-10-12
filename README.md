@@ -80,11 +80,12 @@ En esta unidad comenzamos con el análisis exploratorio de datos, asi como la li
     2. [Clase6](https://drive.google.com/drive/folders/1Nekw-3RzI3OVSB_RpS0QRDssWubEnalc?usp=sharing)
      
      
-     3. Clase 7 Cátedra: Grabación 5 de Octubre
+    3. Clase 7 Cátedra: Grabación 5 de Octubre
      
      [link](https://udla.zoom.us/rec/share/7m00l53lZJDXc7u-kxutXPx7kSNerBN3tkbgNbibuRBoeGF04PIKCXWf4nVqcNZj.3Y4eD4yBu2aP1I8c?startTime=1664990194000)
 
-Código de acceso: dsr6pe=W
+    Código de acceso: dsr6pe=W
 
-     4. [Clase 8](https://drive.google.com/drive/folders/1_tT3KR_iJiTcdEgd6HgMTFcsDv84QgdA?usp=sharing)
+
+    4. [Clase 8](https://drive.google.com/drive/folders/1_tT3KR_iJiTcdEgd6HgMTFcsDv84QgdA?usp=sharing)
 
