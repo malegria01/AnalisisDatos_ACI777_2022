@@ -91,3 +91,18 @@ En esta unidad comenzamos con el análisis exploratorio de datos, asi como la li
     
     5. [Clase 9](https://drive.google.com/drive/folders/1VP5pp9fQ3cBlNtbtn5kbslK6hfQzaM9r?usp=sharing)
 
+## Informes de WORD que llegaron
+
+PABLO NICOLAS BURGOS RODRIGUEZ 
+
+MATIAS IGNACIO ACEVEDO SILVA 
+
+DANIEL PEÑALOZA GALLEGOS
+
+SEBASTIAN MAURICIO CANEO GARRIDO
+ 
+ALAN ESPINOZA LLANOS
+ 
+HELEN MILET FERRER MONCADA 
+  
+PABLO ANDRES ESPINOZA HERNANDEZ
