@@ -93,7 +93,7 @@ En esta unidad comenzamos con el análisis exploratorio de datos, asi como la li
     
 ## Unidad 3: Aprendizaje Automático
 
-    1.- [Clase10](https://drive.google.com/drive/folders/1e4_hwWl9BcOaQp2kCHbseTjtsW-9LzDt?usp=sharing)
+   1. [Clase10](https://drive.google.com/drive/folders/1e4_hwWl9BcOaQp2kCHbseTjtsW-9LzDt?usp=sharing)
 
 ## Informes de WORD que llegaron
 
