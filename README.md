@@ -90,6 +90,10 @@ En esta unidad comenzamos con el análisis exploratorio de datos, asi como la li
     4. [Clase 8](https://drive.google.com/drive/folders/1_tT3KR_iJiTcdEgd6HgMTFcsDv84QgdA?usp=sharing)
     
     5. [Clase 9](https://drive.google.com/drive/folders/1VP5pp9fQ3cBlNtbtn5kbslK6hfQzaM9r?usp=sharing)
+    
+## Unidad 3: Aprendizaje Automático
+
+    1.- [Clase10](https://drive.google.com/drive/folders/1e4_hwWl9BcOaQp2kCHbseTjtsW-9LzDt?usp=sharing)
 
 ## Informes de WORD que llegaron
 
