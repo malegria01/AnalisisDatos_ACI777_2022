@@ -95,18 +95,4 @@ En esta unidad comenzamos con el análisis exploratorio de datos, asi como la li
 
    1. [Clase10](https://drive.google.com/drive/folders/1e4_hwWl9BcOaQp2kCHbseTjtsW-9LzDt?usp=sharing)
 
-## Informes de WORD que llegaron
-
-PABLO NICOLAS BURGOS RODRIGUEZ 
-
-MATIAS IGNACIO ACEVEDO SILVA 
-
-DANIEL PEÑALOZA GALLEGOS
-
-SEBASTIAN MAURICIO CANEO GARRIDO
- 
-ALAN ESPINOZA LLANOS
- 
-HELEN MILET FERRER MONCADA 
-  
-PABLO ANDRES ESPINOZA HERNANDEZ
+## [link directo](https://docs.google.com/spreadsheets/d/1KwUO1jLs4gcEbLDSq5MXtaP63cdgHMqk0PnLv2rAUPA/edit?usp=sharing) a Excel para anotar el algortimo a usar
