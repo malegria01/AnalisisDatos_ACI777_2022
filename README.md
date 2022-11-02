@@ -94,7 +94,7 @@ En esta unidad comenzamos con el análisis exploratorio de datos, asi como la li
 
    1. [Clase10](https://drive.google.com/drive/folders/1e4_hwWl9BcOaQp2kCHbseTjtsW-9LzDt?usp=sharing)
 
-## [link directo](https://docs.google.com/spreadsheets/d/1KwUO1jLs4gcEbLDSq5MXtaP63cdgHMqk0PnLv2rAUPA/edit?usp=sharing) a Excel para anotar el algortimo a usar
+#### [link directo](https://docs.google.com/spreadsheets/d/1KwUO1jLs4gcEbLDSq5MXtaP63cdgHMqk0PnLv2rAUPA/edit?usp=sharing) a Excel para anotar el algortimo a usar
 
 
    2. [Clase11](https://drive.google.com/drive/folders/1PDE682haVJvSNSlEkqrX-S5Aq2ZHXH_t?usp=sharing)
