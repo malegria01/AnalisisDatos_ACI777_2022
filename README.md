@@ -2,7 +2,6 @@
  
 
 
-# AVISO!!:  Miercoles 28 de Septiembre: Debido a disturbios en el metro, me esta costando llegar, les pido comenzar en el segundo bloque 15:30.
 
 # Curso de Análisis de datos ACI777 Facultad Ingeniería y Negocios UDLA.
 
@@ -96,3 +95,6 @@ En esta unidad comenzamos con el análisis exploratorio de datos, asi como la li
    1. [Clase10](https://drive.google.com/drive/folders/1e4_hwWl9BcOaQp2kCHbseTjtsW-9LzDt?usp=sharing)
 
 ## [link directo](https://docs.google.com/spreadsheets/d/1KwUO1jLs4gcEbLDSq5MXtaP63cdgHMqk0PnLv2rAUPA/edit?usp=sharing) a Excel para anotar el algortimo a usar
+
+
+## Notas actualizadas [link](https://docs.google.com/spreadsheets/d/14wB2Se_qhJ-g5b0V1yI_50C7YxN3Fp4G/edit?usp=sharing&ouid=108809600204994716242&rtpof=true&sd=true)
