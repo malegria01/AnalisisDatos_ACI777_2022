@@ -99,7 +99,7 @@ En esta unidad comenzamos con el análisis exploratorio de datos, asi como la li
 
    2. [Clase11](https://drive.google.com/drive/folders/1PDE682haVJvSNSlEkqrX-S5Aq2ZHXH_t?usp=sharing)
 
-## Notas actualizadas [link](https://docs.google.com/spreadsheets/d/14wB2Se_qhJ-g5b0V1yI_50C7YxN3Fp4G/edit?usp=sharing&ouid=108809600204994716242&rtpof=true&sd=true)
+
 
 
 ## Material para el Proyecto Final (EJ4 evaluado )
@@ -115,3 +115,5 @@ En esta unidad comenzamos con el análisis exploratorio de datos, asi como la li
 [Redes neuronales en Python](https://www.cienciadedatos.net/documentos/py35-redes-neuronales-python.html)
 
 ### Para los que eligieron imagenes, si su codigo se demora demasiado, les recomiendo cambiar de datos y de algortimo rehaciendo lo que presentaron el miércoles con la data seleccionada. --> enviar un correo cuanto antes para que no pierdan tanto tiempo.
+
+## Notas actualizadas [link](https://docs.google.com/spreadsheets/d/14wB2Se_qhJ-g5b0V1yI_50C7YxN3Fp4G/edit?usp=sharing&ouid=108809600204994716242&rtpof=true&sd=true)
